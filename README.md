@@ -2,4 +2,3 @@
 
 Following along https://www.youtube.com/watch?v=jFfo23yIWac&t=87s
 
-Project 1 is finished
